@@ -1,6 +1,27 @@
+* {
+    margin: 30px;
+}
 body {
     margin: 20px;
     padding: 5%;
     background-color: lightgoldenrodyellow;
 }
 h1 {text-align: center;}
+h2 {
+    font-size: xx-large;
+}
+#para1 {
+    text-align: center;
+}
+#para3 {
+    border: 3px ridge grey;
+    border-radius: 20%;
+    height: 140px;
+    width: 240px;
+    overflow: auto;
+}
+h2 {
+    border: 2px solid green;
+    width: 500px;
+    height: 40px;
+}

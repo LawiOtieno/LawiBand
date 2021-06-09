@@ -1,0 +1,35 @@
+* {
+    margin: 30px;
+}
+body {
+    border: 2px ridge blue;
+    margin: 20px;
+    padding: 5%;
+    background-color: lightgoldenrodyellow;
+}
+h1 {text-align: center;}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#para1 {
+    text-align: center;
+}
+#para3 {
+    border: 3px ridge grey;
+    border-radius: 20%;
+    height: 140px;
+    width: 240px;
+    overflow: auto;
+}
+h2 {
+    border: 2px solid green;
+    width: 500px;
+    height: 40px;
+}
+a:hover {
+    color: red;
+    background-color: white;
+}
+h3 {display: inline;}

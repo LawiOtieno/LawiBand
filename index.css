@@ -32,4 +32,16 @@ a:hover {
     color: red;
     background-color: white;
 }
-h3 {display: inline;}
+#main{
+    display:flex ;
+    margin-left: 0px;
+    
+    
+}
+.para1{
+    margin-left: 0px;
+   
+}
+.diere{
+    margin-left: 300px;
+}
